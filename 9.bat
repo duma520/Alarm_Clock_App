@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed  --icon=icon.ico --add-data "icon.ico;." Alarm_Clock_App.py

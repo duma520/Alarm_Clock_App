@@ -1,0 +1,2 @@
+cls
+python Alarm_Clock_App.py
