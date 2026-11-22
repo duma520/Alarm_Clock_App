@@ -175,4 +175,4 @@ user_dbs\test_1.db
 
 ## 12. 许可
 
-MIT License，详见仓库根目录 LICENSE。
+AGPL-3.0，详见仓库根目录 LICENSE。
